@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15594378&assignment_repo_type=AssignmentRepo)
 Part 1: Introduction to Software Engineering
 1. Definition and Importance of Software Engineering:
 Software Engineering is the systematic application of engineering approaches to the development of software. It involves the use of methodologies, principles, and tools to design, develop, test, and maintain software systems.
